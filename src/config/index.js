@@ -5,7 +5,7 @@ module.exports = {
   'secret' : "AVLMS",
   'iotHub':'',
   'db': {
-    'endpoint' : "https://atozdb.documents.azure.com:443/",
+    'endpoint' : "https://harish.documents.azure.com:443/",
     'primaryKey' : "",
     'database' : "AVLMS",
     //'url':''
